@@ -1,0 +1,144 @@
+{
+    "Romance":[
+
+        {
+            "id": 1,
+            "titulo": "A culpa é das estrelas",
+            "autor": "John Green",
+            "sinopse": "Hazel é uma paciente terminal. Ainda que, por um milagre da medicina, seu tumor tenha encolhido bastante ― o que lhe dá a promessa de viver mais alguns anos",
+            "valor": 28.88
+             
+        },
+        
+        {
+            "id": 2,
+            "titulo": "A cinco passos de você",
+            "autor": "Rachael Lippincott",
+            "sinopse": "Stella Grant gosta de estar no controle. Ela parece ser uma adolescente típica, mas em sua rotina há listas de tarefas e inúmeros remédios que ela deve tomar para controlar a fibrose cística, uma doença crônica que impede que seus pulmões funcionem como deveriam.",
+            "valor": 39.00
+        },
+       
+        {
+            "id": 3,
+            "titulo": "Anne de Green Gables",
+            "autor": "Lucy Maud Montgomery",
+            "sinopse": "Quando os irmãos Marilla e Matthew Cuthbert, de Green Gables, na Prince Edward Island, no Canadá, decidem adotar um órfão para ajudá-los nos trabalhos da fazenda, não estão preparados para o “erro” que mudará suas vidas: Anne Shirley, uma menina ruiva de 11 anos, acaba sendo enviada, por engano, pelo orfanato.",
+            "valor": 24.90
+        },
+        
+       
+        {
+            "id": 4,
+            "titulo": "P.S. Eu te amo",
+            "autor": "Cecelia Ahern",
+            "sinopse": "Gerry e Holly eram namorados de infância e ficariam juntos para sempre, até que o inimaginável acontece e Gerry morre, deixando-a devastada. ",
+            "valor": 39.90
+        }
+    ],
+
+    "Ação": [
+
+        {
+            "id": 5,
+            "titulo": "Garota em Pedaços",
+            "autor": "Kathleen Glasgow",
+            "sinopse": "Além de enfrentar anos de bullying na escola, Charlotte Davis perde o pai e a melhor amiga, precisando então lidar com essa dor e com as consequências do Transtorno do Controle do Impulso um distúrbio que leva as pessoas a se automutilarem. ",
+            "valor": 35.90
+        },
+        
+        {
+            "id": 6, 
+            "titulo": "Antes que as luzes se apaguem",
+            "autor": "Jay Asher",    
+            "sinopse": "Por que colocar meu coração em algo que o destino simplesmente vai separar na manhã de Natal? Sierra e sua família vivem duas vidas: uma no Oregon e outra na Califórnia, durante as festas de fim de ano.",    
+            "valor": 19.79      
+        },
+
+        {
+            "id": 7,    
+            "titulo": "Um de nós está mentindo",
+            "autor": "Karen M. McManus",
+            "sinopse": "Numa tarde de segunda-feira, cinco estudantes do colégio Bayview entram na sala de detenção: Bronwyn, a gênia, comprometida a estudar em Yale, nunca quebra as regras.",
+            "valor": 32.90
+        },
+
+        {
+            "id": 8,    
+            "titulo": "O bosque das coisas perdidas",
+            "autor": "Shea Ernshaw",
+            "sinopse": "Desde os primórdios dos contos de fadas somos ensinados a temer o que se esconde nas florestas escuras, e as florestas que cercam a cidadezinha de Fir Haven são ainda mais sinistras. ",
+            "valor": 31.90
+        }
+    ],
+
+    "investigacao-criminal":[
+
+        {
+            "id": 9,
+            "titulo": "Serial Killers - Anatomia do Mal: Entre na mente dos psicopatas",
+            "autor": "Harold Schrechter",
+            "sinopse": "O livro é referência fundamental a todos os que se interessam pelo universo da investigação e da criminologia.",
+            "valor": 52.90
+        },
+
+        {
+            "id": 10,
+            "titulo": "Investigação Criminal Tecnológica",
+            "autor": "Higor Vinicius Nogueira Jorge",
+            "sinopse": "O livro oferece informações sintéticas sobre inteligência de Estado e Segurança Pública, incluindo informações sobre a história da inteligência no Brasil e no mundo",
+            "valor": 51.80
+        }, 
+
+        {
+            "id": 11,
+            "titulo": "Lady Killers: Assassinas em Série: As mulheres mais letais da história",
+            "autor": "Tori Telfer",
+            "sinopse": "As mulheres podem ser tão letais quanto os homens e deixar um rastro de corpos por onde passam ― então o que acontece quando as pessoas são confrontadas com uma assassina em série? ",
+            "valor": 39.90
+        },
+
+        {
+            
+           "id": 12,
+           "titulo": "Crimes Vitorianos Macabros",
+           "autor": "Kate Clarke",
+           "sinopse": "Macabra e a Crime Scene se encontram para entregar o que existe de mais poderoso na literatura true crime da era vitoriana.",
+           "valor": 59.89
+        }
+    ],
+
+    "Auto-ajuda":[
+
+        {
+            "id": 13,
+            "titulo": "O milagre da manhã: O segredo para transformar sua vida (antes das 8 horas)",
+            "autor": "Hal Elrod",
+            "sinopse": "Neste novo clássico da autoajuda, Hal Elrod explica os benefícios de acordar cedo e desenvolver todo o nosso potencial e as nossas habilidades.",
+            "valor": 27.99
+        },
+
+        {
+            "id": 14,
+            "titulo": "O poder do hábito",
+            "autor": "Charles Duhigg",
+            "sinopse": "Durante os últimos dois anos, uma jovem transformou quase todos os aspectos de sua vida. Parou de fumar, correu uma maratona e foi promovida",
+            "valor": 44.90
+        },
+
+        {
+            "id": 15,
+            "titulo": "O Segredo",
+            "autor": "Rhonda Byrne",
+            "sinopse": "Este livro reúne histórias reais e os testemunhos de pessoas que transformaram profundamente suas vidas, seja na saúde, nas finanças, nos relacionamentos, na erradicação das doenças, superação de obstáculos e na conquista de metas consideradas impossíveis.",
+            "valor": 78.00
+        },
+
+        {
+            "id": 16,
+            "titulo": "Pai Rico, Pai Pobre Para Jovens: O que a escola não ensina sobre dinheiro",
+            "autor": "Robert T. Kiyosaki",
+            "sinopse": "Você sente que a educação tradicional não tem nada a ver com a vida e que a escola não está preparando você para o mundo real? Se você respondeu “sim” a essas perguntas, então este livro foi feito para você!",
+            "valor": 58.00
+        }
+    ]
+}

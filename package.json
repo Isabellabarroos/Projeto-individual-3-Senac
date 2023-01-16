@@ -1,0 +1,16 @@
+{
+    "name": "json-teste",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": "", 
+    "author": "Isabella Barros <isabella.ffb@hotmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "json-server":"^0.17.1"
+    }
+}
