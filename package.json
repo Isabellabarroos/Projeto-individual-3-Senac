@@ -7,7 +7,7 @@
     "scripts": {
         "start": "node server.js"
     },
-    "repository": "", 
+    "repository": "https://github.com/Isabellabarroos/Projeto-individual-3-Senac", 
     "author": "Isabella Barros <isabella.ffb@hotmail.com>",
     "license": "ISC",
     "dependencies": {
